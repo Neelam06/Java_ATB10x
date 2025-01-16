@@ -2,8 +2,8 @@ public class Task01_PrinfExample {
 
     public static void main(String[] args) {
         int a = 9;
-        System.out.printf("/n","Table of 9");
-        System.out.printf("%d%n", a);
+        System.out.printf("Table of 9");
+        System.out.printf("%n%d%n", a);
         System.out.printf("%d%n", a*2);
         System.out.printf("%d%n", a*3);
         System.out.printf("%d%n", a*4);
